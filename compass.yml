@@ -1,0 +1,13 @@
+name: terraform-azurerm-avm-res-network-privatednszone
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/e842b50c-a181-4039-99a8-da1bcf8e3b57
+description: Terraform Azure Verified Resource Module for Private DNS Zone
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
